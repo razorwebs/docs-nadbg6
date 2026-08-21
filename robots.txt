@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-085pds.radarsatu88.cfd/sitemap.xml
